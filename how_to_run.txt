@@ -1,0 +1,39 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf ( enter )
+
+type 
+
+cd C:\Users\krish\Desktop\NIDS ( enter )
+
+type 
+
+set FLASK_APP=server.py ( enter ) for windows
+ 
+
+type 
+
+python -m flask run --host 127.0.0.1 --port 5000
+
+for Jupiter code to run 
+
+open another anaconda prompt from search
+
+type 
+
+conda activate tf ( enter )
+
+
+type 
+
+cd C:\Users\krish\Desktop\NIDS\NIDS jupyter( enter )
+
+ 
+
+type
+
+jupyter notebook Proactive.ipynb  ( enter jupyter file will open ) 
